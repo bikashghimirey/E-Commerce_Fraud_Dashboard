@@ -70,7 +70,7 @@ Cleaned and typed columns; handled nulls/outliers where appropriate
 
 
 # 📊 Dashboard Pages
-1) Overview
+# 1) Overview
 
 KPI Cards: Fraud Rate, Total Users/Transactions
 
@@ -82,7 +82,7 @@ Fraud vs Non-Fraud Over Time (line)
 
 <img width="903" height="553" alt="image" src="https://github.com/user-attachments/assets/e36255fa-ba40-41de-91fc-c89c82882394" />
 
-2) Geographical
+# 2) Geographical
 
 Total Fraud Count (All Countries) card
 
@@ -94,7 +94,7 @@ Filters: Month, Day, Country, Gender
 
 <p align="center"> <img width="1316" height="549" alt="image" src="https://github.com/user-attachments/assets/ddb8c7c0-d6a6-4991-875d-c6a099264796" />
 </p>
-3) User Behaviour
+# 3) User Behaviour
 
 Total Users card
 
