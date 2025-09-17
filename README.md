@@ -174,7 +174,3 @@ LinkedIn: linkedin.com/in/bikash-ghimirey
 
 Email: bikashghimirey@loyalistcollege.com
 
-
-Built a Power BI dashboard on a Kaggle e-commerce fraud dataset (151K+ transactions): 9.4% fraud rate detected; country hotspots, age-group risk, and source-level patterns (SEO/Ads) with interactive filters, DAX measures, and Power Query ETL.
-
-If you want, I can also give you a short GitHub description, topics/tags, and an MIT LICENSE text to paste.
