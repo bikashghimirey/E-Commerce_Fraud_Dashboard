@@ -2,8 +2,7 @@
 
 # This project is built for academic purposes as part of the Loyalist College AI & Data Science Program—Data Analysis Module. Feel free to fork and adapt it for educational use.
 <img width="903" height="553" alt="image" src="https://github.com/user-attachments/assets/ec57e685-de12-478d-8593-b7424684d3dc" />
-<img width="1316" height="549" alt="image" src="https://github.com/user-attachments/assets/57d6b3ba-c487-43fe-b035-ee05fcf74491" />
-<img width="905" height="549" alt="image" src="https://github.com/user-attachments/assets/648fd3d5-e983-4e1b-92d1-6be50b00c262" />
+
 <br>
 <br>
 A Power BI project that analyzes e-commerce transactions to detect and explain fraud patterns. The dashboard highlights overall trends, country hotspots, and user-behaviour signals across devices, browsers, and acquisition sources.
